@@ -1,31 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=📚+CSE_RGPV_Notes;Your+One-Stop+RGPV+CSE+Study+Resource;Learn+•+Revise+•+Ace+Your+Exams" />
+# 📚 CSE_RGPV_Notes
 
-<br>
+### 🎓 Your One-Stop Resource for RGPV Computer Science Engineering Notes
 
-> ### *"The beautiful thing about learning is that no one can take it away from you."*
+> *"The beautiful thing about learning is that no one can take it away from you."*  
 > **— B.B. King**
 
 <p align="center">
-
-<a href="https://github.com/its-harshit22/CSE_RGPV_Notes/stargazers">
-<img src="https://img.shields.io/github/stars/its-harshit22/CSE_RGPV_Notes?style=for-the-badge&logo=github&color=yellow"/>
-</a>
-
-<img src="https://img.shields.io/github/forks/its-harshit22/CSE_RGPV_Notes?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/repo-size/its-harshit22/CSE_RGPV_Notes?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/its-harshit22/CSE_RGPV_Notes?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/license/its-harshit22/CSE_RGPV_Notes?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/github/stars/its-harshit22/CSE_RGPV_Notes?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/forks/its-harshit22/CSE_RGPV_Notes?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/repo-size/its-harshit22/CSE_RGPV_Notes?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/its-harshit22/CSE_RGPV_Notes?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/its-harshit22/CSE_RGPV_Notes?style=for-the-badge" />
 </p>
 
-## ⭐ If this repository helps you, please consider giving it a Star!
+### ⭐ If these notes helped you, please consider giving this repository a **Star**.
 
-It motivates me to maintain the repository, add more notes, and helps other RGPV students discover this resource.
+It helps other RGPV students discover this repository and motivates the community to keep improving it.
 
 </div>
 
@@ -33,16 +25,16 @@ It motivates me to maintain the repository, add more notes, and helps other RGPV
 
 # 📖 About
 
-This repository contains **well-organized, subject-wise and unit-wise notes** for **RGPV B.Tech Computer Science Engineering** students.
+**CSE_RGPV_Notes** is an open-source collection of **subject-wise** and **unit-wise** study materials for **RGPV B.Tech Computer Science Engineering** students.
 
 Whether you're preparing for:
 
 - 📚 Semester Exams
 - ⚡ Last-Minute Revision
-- 📝 Internal Tests
-- 🎯 Quick Concept Review
+- 📝 Internal Assessments
+- 🎯 Concept Revision
 
-this repository is designed to save your time.
+this repository is designed to help you learn efficiently.
 
 ---
 
@@ -50,11 +42,36 @@ this repository is designed to save your time.
 
 ```text
 📦 CSE_RGPV_Notes
- ┣ 📂 Computer_Network
- ┣ 📂 Compiler_Design
- ┣ 📂 Machine_Learning
- ┣ 📂 Project_Management
- ┗ 📜 README.md
+│
+├── 📁 Compiler_Design
+│   ├── Unit-1.pdf
+│   ├── Unit-2.pdf
+│   ├── Unit-3.pdf
+│   ├── Unit-4.pdf
+│   └── Unit-5.pdf
+│
+├── 📁 Computer_Network
+│   ├── Unit-1.pdf
+│   ├── Unit-2.pdf
+│   ├── Unit-3.pdf
+│   ├── Unit-4.pdf
+│   └── Unit-5.pdf
+│
+├── 📁 Machine_Learning
+│   ├── Unit-1.pdf
+│   ├── Unit-2.pdf
+│   ├── Unit-3.pdf
+│   ├── Unit-4.pdf
+│   └── Unit-5.pdf
+│
+├── 📁 Project_Management
+│   ├── Unit-1.pdf
+│   ├── Unit-2.pdf
+│   ├── Unit-3.pdf
+│   ├── Unit-4.pdf
+│   └── Unit-5.pdf
+│
+└── 📄 README.md
 ```
 
 ---
@@ -62,7 +79,7 @@ this repository is designed to save your time.
 # 📚 Available Subjects
 
 | Subject | Status |
-|:---------|:------:|
+|----------|:------:|
 | 💻 Computer Network | ✅ |
 | ⚙️ Compiler Design | ✅ |
 | 🤖 Machine Learning | ✅ |
@@ -72,66 +89,85 @@ this repository is designed to save your time.
 
 # ✨ Features
 
-🚀 Subject-wise Organization
-
-📄 Unit-wise PDFs
-
-📚 Exam-Oriented Notes
-
-⚡ Quick Revision Friendly
-
-🎯 Easy Navigation
-
-❤️ Completely Free
+- 📚 Subject-wise organization
+- 📄 Unit-wise PDF notes
+- 🎯 Exam-oriented content
+- ⚡ Quick revision friendly
+- 🆓 Completely free
+- 🌍 Open-source and community-driven
 
 ---
 
-# 🤝 Want to Contribute?
+# 🚀 How to Use
 
-Contributions are always welcome!
+1. Open the required subject folder.
+2. Select the desired unit.
+3. Read online or download the PDF.
+4. Start learning.
 
-You can help by adding:
+---
 
-- 📄 Missing Notes
-- 📚 Better Resources
+# 🤝 Contributing
+
+This repository is built **for students, by the community**.
+
+You can contribute by adding:
+
+- 📄 Better Notes
+- 📚 Missing Units
 - 📝 Previous Year Papers
-- 🛠 Corrections
-- 💡 Helpful Study Material
+- 🛠️ Corrections
+- 💡 Helpful Study Resources
 
-Simply **Fork → Improve → Create a Pull Request.**
+### Contribution Steps
 
-Together, we can build one of the best open-source study repositories for **RGPV CSE**.
+```text
+Fork 🍴
+   ↓
+Make Changes ✍️
+   ↓
+Commit ✅
+   ↓
+Open Pull Request 🚀
+```
+
+Every contribution, no matter how small, is greatly appreciated.
+
+Together, we can build one of the best open-source repositories for **RGPV Computer Science Engineering** students.
 
 ---
 
 # 📜 Disclaimer
 
-> **This repository is created solely for educational purposes.**
+> **This repository is intended solely for educational purposes.**
 
-- I **do not claim ownership** of any notes or study materials unless explicitly mentioned.
-- All credit belongs to the respective authors, teachers, institutes, and original creators.
-- If you own any material and would like proper credit, modification, or removal, please open an **Issue**.
+- 📚 I do **not claim ownership** of any notes or study materials shared here unless explicitly mentioned.
+- ❤️ All credit belongs to the respective authors, teachers, institutes, and original creators.
+- 📩 If you are the owner of any material and would like proper attribution, modification, or removal, please open an **Issue** or submit a request.
 
-I will gladly resolve it.
+The content will be updated accordingly.
+
+---
+
+# 🌟 Support the Project
+
+If you found this repository useful,
+
+- ⭐ Star this repository
+- 🍴 Fork it
+- 🤝 Contribute
+- 📢 Share it with your friends
+
+Every ⭐ helps more students discover this project.
 
 ---
 
 <div align="center">
 
-## 🌟 Support the Project
+## 📚 Learn • Share • Grow Together
 
-If you found this repository useful,
+### 🚀 Open Source • Community Driven • Free Forever
 
-### ⭐ Star this repository
-
-### 🍴 Fork it
-
-### 🤝 Contribute
-
----
-
-### 📚 Learn Together • Share Together • Grow Together
-
-**Made with ❤️ by Harshit Kushwah**
+**Happy Learning & Best of Luck for Your Exams! 🎓**
 
 </div>
